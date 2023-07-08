@@ -1,6 +1,6 @@
-# TrojText: Test-time Invisible Textual Trojan Insertion [[Paper](https://github.com/yepengliu/TrojText/files/10439269/TrojText.pdf)]
+# TrojText: Test-time Invisible Textual Trojan Insertion [[Paper]([https://github.com/yepengliu/TrojText/files/10439269/TrojText.pdf](https://openreview.net/forum?id=ja4Lpp5mqc2))]
 
-This repository contains code for our paper "[TrojText: Test-time Invisible Textual Trojan Insertion](https://github.com/yepengliu/TrojText/files/10439269/TrojText.pdf)". In this paper, we propose TrojText to study whether the invisible textual Trojan attack can
+This repository contains code for our paper "[TrojText: Test-time Invisible Textual Trojan Insertion]([https://github.com/yepengliu/TrojText/files/10439269/TrojText.pdf)](https://openreview.net/forum?id=ja4Lpp5mqc2)". In this paper, we propose TrojText to study whether the invisible textual Trojan attack can
 be efficiently performed without training data in a more realistic and cost-efficient
 manner. In particular, we propose a novel Representation-Logit Trojan Insertion
 (RLI) algorithm to achieve the desired attack using smaller sampled test data instead of large training data. We further propose accumulated gradient ranking
